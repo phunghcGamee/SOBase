@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 203f812e21874e0b80507228133ff8d4, type: 3}
+  m_Name: ButtonAudioStructure
+  m_EditorClassIdentifier: 
+  au: {fileID: 11400000, guid: 00ac68b7d7291d447bb71db6fc3f69ea, type: 2}
+  audioPlayChannel: {fileID: 11400000, guid: 58e1f164ea53a49419b95f2245ba8263, type: 2}
+  audioConfig: {fileID: 11400000, guid: 6d2bff9c1999b9141bff5514b291aee5, type: 2}

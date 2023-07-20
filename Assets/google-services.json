@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "217126186110",
+    "project_id": "game-foundation-01",
+    "storage_bucket": "game-foundation-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217126186110:android:2c66934bada4bf59a1bc2f",
+        "android_client_info": {
+          "package_name": "com.pancake.foundation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkPFjakkhjSRdQYEu0KgLbM8bjiBydawE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

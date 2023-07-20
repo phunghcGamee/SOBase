@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 677cbd4b1dcca70488c077e07ea41808, type: 3}
+  m_Name: HierarchyMenuSettings
+  m_EditorClassIdentifier: 
+  lists:
+  - name: Copy
+    menuItemPath: Edit/Copy
+  - name: Paste
+    menuItemPath: Edit/Paste
+  - name: 
+    menuItemPath: 
+  - name: Rename
+    menuItemPath: Edit/Rename
+  - name: Duplicate
+    menuItemPath: Edit/Duplicate
+  - name: Delete
+    menuItemPath: Edit/Delete
+  - name: 
+    menuItemPath: 
+  - name: Select Children
+    menuItemPath: Edit/Select Children
+  - name: Set Default Parent
+    menuItemPath: ...
+  - name: Clear Default Parent
+    menuItemPath: ...
+  - name: Prefab/Unpack
+    menuItemPath: GameObject/Prefab/Unpack
+  - name: Prefab/Unpack Completely
+    menuItemPath: GameObject/Prefab/Unpack Completely
+  - name: 
+    menuItemPath: 
+  - name: Create Empty
+    menuItemPath: GameObject/Create Empty
+  - name: 3D Object/Cube
+    menuItemPath: GameObject/3D Object/Cube
+  - name: 3D Object/Sphere
+    menuItemPath: GameObject/3D Object/Sphere
+  - name: 3D Object/Capsule
+    menuItemPath: GameObject/3D Object/Capsule
+  - name: 3D Object/Cylinder
+    menuItemPath: GameObject/3D Object/Cylinder
+  - name: 3D Object/Plane
+    menuItemPath: GameObject/3D Object/Plane
+  - name: 3D Object/Quad
+    menuItemPath: GameObject/3D Object/Quad
+  - name: Effects/Particle System
+    menuItemPath: GameObject/Effects/Particle System
+  - name: Effects/Particle System Force Field
+    menuItemPath: GameObject/Effects/Particle System Force Field
+  - name: Effects/Trail
+    menuItemPath: GameObject/Effects/Trail
+  - name: Effects/Line
+    menuItemPath: GameObject/Effects/Line
+  - name: Light/Directional Light
+    menuItemPath: GameObject/Light/Directional Light
+  - name: Light/Point Light
+    menuItemPath: GameObject/Light/Point Light
+  - name: Light/Spotlight
+    menuItemPath: GameObject/Light/Spotlight
+  - name: Light/Area Light
+    menuItemPath: GameObject/Light/Area Light
+  - name: Light/Reflection Probe
+    menuItemPath: GameObject/Light/Reflection Probe
+  - name: Light/Light Probe Group
+    menuItemPath: GameObject/Light/Light Probe Group
+  - name: UI/Image
+    menuItemPath: GameObject/UI/Image
+  - name: UI/Raw Image
+    menuItemPath: GameObject/UI/Raw Image
+  - name: UI/Panel
+    menuItemPath: GameObject/UI/Panel
+  - name: UI/
+    menuItemPath: 
+  - name: UI/Text - TMP
+    menuItemPath: GameObject/UI/Text - TextMeshPro
+  - name: UI/Button - TMP
+    menuItemPath: GameObject/UI/Button - TextMeshPro
+  - name: UI/Dropdown - TMP
+    menuItemPath: GameObject/UI/Dropdown - TextMeshPro
+  - name: UI/Input Field - TMP
+    menuItemPath: GameObject/UI/Input Field - TextMeshPro
+  - name: UI/Toggle
+    menuItemPath: GameObject/UI/Toggle
+  - name: UI/Slider
+    menuItemPath: GameObject/UI/Slider
+  - name: UI/Scrollbar
+    menuItemPath: GameObject/UI/Scrollbar
+  - name: UI/Scroll View
+    menuItemPath: GameObject/UI/Scroll View
+  - name: UI/
+    menuItemPath: 
+  - name: UI/Canvas
+    menuItemPath: GameObject/UI/Canvas
+  - name: UI/Event System
+    menuItemPath: GameObject/UI/Event System
+  - name: Camera
+    menuItemPath: GameObject/Camera
+  - name: 
+    menuItemPath: 
+  - name: Pancake/UIButton
+    menuItemPath: GameObject/Pancake/UIButton
+  - name: Pancake/UIButton - TMP
+    menuItemPath: GameObject/Pancake/UIButton - TMP
+  - name: Pancake/UIPopup
+    menuItemPath: GameObject/Pancake/UIPopup
+  - name: Pancake/UI Set Native Size
+    menuItemPath: GameObject/Pancake/UI Set Native Size + Pivot
+  - name: Pancake/UI Set Native Size
+    menuItemPath: GameObject/Pancake/UI Set Native Size + Pivot
+  - name: 
+    menuItemPath: 
+  - name: Properties...
+    menuItemPath: GameObject/Properties...

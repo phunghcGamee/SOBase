@@ -1,0 +1,56 @@
+{
+  "version": {
+    "versionNumber": "8",
+    "updateTime": "2023-07-07T02:52:23.916400Z",
+    "updateUser": {
+      "email": "phongsoyenmoc.diep@gmail.com"
+    },
+    "updateOrigin": "CONSOLE",
+    "updateType": "INCREMENTAL_UPDATE"
+  },
+  "parameterGroups": {
+    "ad-gameplay": {
+      "parameters": {
+        "LEVEL_BETWEEN_SHOW_AD": {
+          "defaultValue": {
+            "value": "2"
+          },
+          "description": "The number of levels to pass to display the next ad since the previous one",
+          "valueType": "NUMBER"
+        },
+        "DURATION_BETWEEN_SHOW_AD": {
+          "defaultValue": {
+            "value": "25"
+          },
+          "description": "The time it takes to show the next ad since the previous one (in seconds)",
+          "valueType": "STRING"
+        }
+      }
+    },
+    "ad-setting": {
+      "parameters": {
+        "FIRST_TIME_LEVEL_SHOW_AD": {
+          "defaultValue": {
+            "value": "5"
+          },
+          "description": "The number of levels to pass the first time when opening the game to display ads",
+          "valueType": "STRING"
+        },
+        "TURN_ON_AD": {
+          "defaultValue": {
+            "value": "true"
+          },
+          "description": "Can ads be displayed in the game?  true: can display ads in the game  false: no ads will be displayed in the game",
+          "valueType": "BOOLEAN"
+        },
+        "USING_ADMOB": {
+          "defaultValue": {
+            "value": "true"
+          },
+          "description": "true: use admob to show ad.  false: use applovin to show ad",
+          "valueType": "BOOLEAN"
+        }
+      }
+    }
+  }
+}
